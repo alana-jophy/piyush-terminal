@@ -1,0 +1,14 @@
+.entry-container {
+    text-align: center;
+    padding: 50px;
+    background: #b8d5f1;
+  }
+  
+  .entry-container h1 {
+    color: #100f0f;
+  }
+  
+  .entry-container p {
+    color: #0b0b0b;
+  }
+  
